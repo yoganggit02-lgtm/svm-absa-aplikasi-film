@@ -1,0 +1,121 @@
+﻿Aspek,Sentimen,Kata,Frekuensi
+Konten,negatif,iklan,3817
+Konten,negatif,tonton,3535
+Konten,negatif,film,1999
+Konten,negatif,banyak,1285
+Konten,negatif,lagi,940
+Konten,negatif,tidak_bisa,832
+Konten,negatif,aplikasi,820
+Konten,negatif,banget,806
+Konten,negatif,mau,772
+Konten,negatif,episode,761
+Konten,positif,film,3177
+Konten,positif,tonton,3057
+Konten,positif,bagus,1856
+Konten,positif,aplikasi,1264
+Konten,positif,banyak,1125
+Konten,positif,saya,1081
+Konten,positif,drama,1031
+Konten,positif,ada,985
+Konten,positif,banget,897
+Konten,positif,ya,757
+Aplikasi & Fitur,negatif,iklan,6263
+Aplikasi & Fitur,negatif,aplikasi,4215
+Aplikasi & Fitur,negatif,banyak,2589
+Aplikasi & Fitur,negatif,tidak_bisa,1404
+Aplikasi & Fitur,negatif,banget,1391
+Aplikasi & Fitur,negatif,lagi,1011
+Aplikasi & Fitur,negatif,buka,999
+Aplikasi & Fitur,negatif,tonton,988
+Aplikasi & Fitur,negatif,download,940
+Aplikasi & Fitur,negatif,saya,895
+Aplikasi & Fitur,positif,aplikasi,2459
+Aplikasi & Fitur,positif,bagus,1661
+Aplikasi & Fitur,positif,iklan,1124
+Aplikasi & Fitur,positif,saya,683
+Aplikasi & Fitur,positif,banget,650
+Aplikasi & Fitur,positif,ya,604
+Aplikasi & Fitur,positif,banyak,570
+Aplikasi & Fitur,positif,suka,481
+Aplikasi & Fitur,positif,ada,431
+Aplikasi & Fitur,positif,aku,384
+Harga & Pembayaran,negatif,langgan,3451
+Harga & Pembayaran,negatif,bayar,3379
+Harga & Pembayaran,negatif,saya,3329
+Harga & Pembayaran,negatif,vip,2491
+Harga & Pembayaran,negatif,tidak_bisa,1909
+Harga & Pembayaran,negatif,aplikasi,1693
+Harga & Pembayaran,negatif,tonton,1464
+Harga & Pembayaran,negatif,premium,1412
+Harga & Pembayaran,negatif,iklan,1373
+Harga & Pembayaran,negatif,lagi,1259
+Harga & Pembayaran,positif,langgan,825
+Harga & Pembayaran,positif,saya,758
+Harga & Pembayaran,positif,vip,652
+Harga & Pembayaran,positif,ya,507
+Harga & Pembayaran,positif,premium,443
+Harga & Pembayaran,positif,bayar,409
+Harga & Pembayaran,positif,bagus,400
+Harga & Pembayaran,positif,ada,340
+Harga & Pembayaran,positif,aplikasi,337
+Harga & Pembayaran,positif,viu,326
+Akun & Akses,negatif,tidak_bisa,2738
+Akun & Akses,negatif,masuk,2728
+Akun & Akses,negatif,login,2169
+Akun & Akses,negatif,aplikasi,1637
+Akun & Akses,negatif,daftar,1602
+Akun & Akses,negatif,akun,1502
+Akun & Akses,negatif,saya,1447
+Akun & Akses,negatif,mau,1422
+Akun & Akses,negatif,susah,906
+Akun & Akses,negatif,lagi,892
+Akun & Akses,positif,saya,284
+Akun & Akses,positif,masuk,206
+Akun & Akses,positif,ya,149
+Akun & Akses,positif,bagus,131
+Akun & Akses,positif,akun,129
+Akun & Akses,positif,tidak_bisa,129
+Akun & Akses,positif,login,110
+Akun & Akses,positif,kenapa,107
+Akun & Akses,positif,lagi,107
+Akun & Akses,positif,ada,104
+Umum,negatif,tidak_bisa,649
+Umum,negatif,buka,427
+Umum,negatif,kenapa,307
+Umum,negatif,banget,306
+Umum,negatif,saya,257
+Umum,negatif,netflix,198
+Umum,negatif,jaring,176
+Umum,negatif,lagi,170
+Umum,negatif,kok,169
+Umum,negatif,banyak,164
+Umum,positif,bagus,1161
+Umum,positif,saya,480
+Umum,positif,ya,451
+Umum,positif,banget,432
+Umum,positif,ada,322
+Umum,positif,baik,302
+Umum,positif,suka,296
+Umum,positif,netflix,291
+Umum,positif,aku,270
+Umum,positif,kasih,261
+Kualitas Streaming,negatif,video,722
+Kualitas Streaming,negatif,tonton,541
+Kualitas Streaming,negatif,iklan,523
+Kualitas Streaming,negatif,loading,453
+Kualitas Streaming,negatif,aplikasi,361
+Kualitas Streaming,negatif,tidak_bisa,359
+Kualitas Streaming,negatif,lag,311
+Kualitas Streaming,negatif,terus,293
+Kualitas Streaming,negatif,banget,291
+Kualitas Streaming,negatif,lama,216
+Kualitas Streaming,positif,bagus,365
+Kualitas Streaming,positif,video,301
+Kualitas Streaming,positif,kualitas,251
+Kualitas Streaming,positif,tonton,203
+Kualitas Streaming,positif,aplikasi,171
+Kualitas Streaming,positif,saya,164
+Kualitas Streaming,positif,ya,142
+Kualitas Streaming,positif,banget,137
+Kualitas Streaming,positif,gambar,127
+Kualitas Streaming,positif,suka,117
